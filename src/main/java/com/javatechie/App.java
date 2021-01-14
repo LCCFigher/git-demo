@@ -15,6 +15,11 @@ public class App {
 	  System.out.println("Pull changes from remote");	
 	}
 	
+	public void newbranchmethod()
+	{
+		System.out.println("this method is created with new branch phase 2");
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println("Hello World");
