@@ -6,7 +6,7 @@ public class App {
 	{
 		if(data.equals(Constant.DATA_TYPE))
 		{
-			System.out.println("welcome");
+			System.out.println("welcome to git demo");
 		}
 	}
 	
