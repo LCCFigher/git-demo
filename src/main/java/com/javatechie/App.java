@@ -10,6 +10,11 @@ public class App {
 		}
 	}
 	
+	public void addedMethod()
+	{
+	  System.out.println("Pull changes from remote");	
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println("Hello World");
